@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AlgorithmsandDataStructures.TestBinaryIndexedTree</StartupObject>
+    <StartupObject>AlgorithmsandDataStructures.TestDisJointSet</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="BinaryIndexedTree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DisjointSet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
